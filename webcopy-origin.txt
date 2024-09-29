@@ -1,0 +1,403 @@
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\sdks\OneSignalSDK-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/materialicons/v41/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\s\materialicons\v41\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ-1.woff2
+Content Type: font/woff2
+
+Uri: https://p.typekit.net/p.css?s=1&k=uxu4kzp&ht=tk&f=139.140.171.172.173.174.175.176.5474.5475.25136.25137&a=2188748&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\p-1.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/144da4/00000000000000007735e619/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\144da4\00000000000000007735e619\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/144da4/00000000000000007735e619/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\144da4\00000000000000007735e619\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/144da4/00000000000000007735e619/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\144da4\00000000000000007735e619\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/154cda/00000000000000007735e601/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\154cda\00000000000000007735e601\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/154cda/00000000000000007735e601/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\154cda\00000000000000007735e601\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/154cda/00000000000000007735e601/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\154cda\00000000000000007735e601\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\1be3c2\00000000000000007735e606\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\1be3c2\00000000000000007735e606\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\1be3c2\00000000000000007735e606\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/23e139/00000000000000007735e605/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\23e139\00000000000000007735e605\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/23e139/00000000000000007735e605/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\23e139\00000000000000007735e605\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/23e139/00000000000000007735e605/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\23e139\00000000000000007735e605\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/2555e1/00000000000000007735e603/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\2555e1\00000000000000007735e603\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/2555e1/00000000000000007735e603/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\2555e1\00000000000000007735e603\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/2555e1/00000000000000007735e603/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\2555e1\00000000000000007735e603\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/3322cc/00000000000000007735e616/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\3322cc\00000000000000007735e616\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/3322cc/00000000000000007735e616/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\3322cc\00000000000000007735e616\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/3322cc/00000000000000007735e616/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\3322cc\00000000000000007735e616\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/40d372/00000000000000007735e607/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\40d372\00000000000000007735e607\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/40d372/00000000000000007735e607/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\40d372\00000000000000007735e607\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/40d372/00000000000000007735e607/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i3&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\40d372\00000000000000007735e607\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/4de20a/00000000000000007735e604/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\4de20a\00000000000000007735e604\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/4de20a/00000000000000007735e604/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\4de20a\00000000000000007735e604\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/4de20a/00000000000000007735e604/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\4de20a\00000000000000007735e604\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/7283cd/00000000000000007735e608/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\7283cd\00000000000000007735e608\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/7283cd/00000000000000007735e608/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\7283cd\00000000000000007735e608\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/7283cd/00000000000000007735e608/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i1&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\7283cd\00000000000000007735e608\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\78aca8\00000000000000007735e60d\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\78aca8\00000000000000007735e60d\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\78aca8\00000000000000007735e60d\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/79862c/00000000000000007735e60e/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\79862c\00000000000000007735e60e\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/79862c/00000000000000007735e60e/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\79862c\00000000000000007735e60e\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/79862c/00000000000000007735e60e/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i5&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\79862c\00000000000000007735e60e\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\efe4a5\00000000000000007735e609\30\a-1
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\efe4a5\00000000000000007735e609\30\d-1
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\af\efe4a5\00000000000000007735e609\30\l-1
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/uxu4kzp.css
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\uxu4kzp-1.css
+Content Type: text/css
+
+Uri: https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\bootstrap\v5\tp.widget.bootstrap.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-B9KTVHW30V
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/templates/extravaganza-ecommerce-product-carousel/
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\templates\extravaganza-ecommerce-product-carousel\index.htm
+Content Type: text/html
+
+Uri: https://www.sliderrevolution.com/wp-content/cache/asp/asp-9734ae24.min.js?ver=PZKxq8
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\cache\asp\asp-9734ae24.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/blog-newsletter-gutenberg-block/front/dist/js/tp-newsletter-block.min.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\blog-newsletter-gutenberg-block\front\dist\js\tp-newsletter-block.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/essential-grid/public/assets/css/jquery.esgbox.min.css?ver=3.1.5
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\essential-grid\public\assets\css\jquery.esgbox.min-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=3.1.5
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\essential-grid\public\assets\css\settings-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css?ver=3.1.5
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\essential-grid\public\assets\font\fontello\css\fontello-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lazy-loading-responsive-images/js/lazysizes.min.js?ver=1713134210
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lazy-loading-responsive-images\js\lazysizes.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lazy-loading-responsive-images/js/ls.unveilhooks.min.js?ver=1713134210
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lazy-loading-responsive-images\js\ls.unveilhooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/dist/element.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\dist\element-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/dist/element.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\dist\element-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/139-basket-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\139-basket-outline.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/201-settings-sliders-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\201-settings-sliders-outline-1.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/456-handshake-deal-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\456-handshake-deal-outline-1.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/475-rescue-safety-ring-help-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\475-rescue-safety-ring-help-outline-1.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/489-rocket-space-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\489-rocket-space-outline-1.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/lordicon-interactive-icons/icons/69-eye-outline.json
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\lordicon-interactive-icons\icons\69-eye-outline-1.json
+Content Type: application/json
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.19
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\revslider\public\css\sr7-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/revslider/public/js/libs/tptools.js?ver=6.7.19
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\revslider\public\js\libs\tptools-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/revslider/public/js/sr7.js?ver=6.7.19
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\revslider\public\js\sr7-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/sr-documentation/sr-documentation-styles.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\sr-documentation\sr-documentation-styles-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/sr-documentation/sr-documentation-tooltip.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\sr-documentation\sr-documentation-tooltip-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-gdpr.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\css\cookie-law-info-gdpr-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-public.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\css\cookie-law-info-public-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-table.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\css\cookie-law-info-table-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\js\cookie-law-info-public-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\plugins\wp-pagenavi\pagenavi-css-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/SliderRevolution/screen.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\SliderRevolution\screen-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/SliderRevolution/style.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\SliderRevolution\style-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/zakra/assets/js/navigation.min.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\zakra\assets\js\navigation.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js?ver=20151215
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\zakra\assets\js\skip-link-focus-fix.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/zakra/assets/js/zakra-custom.min.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\zakra\assets\js\zakra-custom.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/zakra/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\zakra\assets\lib\font-awesome\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/themes/zakra/style.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\themes\zakra\style-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/02/mailicon-1.png
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\02\mailicon-1-1.png
+Content Type: image/png
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/05/cropped-rsicon-180x180.png
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\05\cropped-rsicon-180x180-1.png
+Content Type: image/png
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/05/cropped-rsicon-192x192.png
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\05\cropped-rsicon-192x192-1.png
+Content Type: image/png
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/05/cropped-rsicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\05\cropped-rsicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/05/ThumbQuickSetupSR-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\05\ThumbQuickSetupSR-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/06/getprod_featuredimage-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\06\getprod_featuredimage-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2020/06/srlogo_light2.png
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2020\06\srlogo_light2-1.png
+Content Type: image/png
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2021/08/0FF9E966-12BD-4870-B6C8-3D3145364428-200x113.jpeg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2021\08\0FF9E966-12BD-4870-B6C8-3D3145364428-200x113-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2022/01/maxresdefault-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2022\01\maxresdefault-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2023/10/ecommerce-slider.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2023\10\ecommerce-slider.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2024/09/css-3d-transform-f-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2024\09\css-3d-transform-f-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2024/09/css-smooth-scroll-f-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2024\09\css-smooth-scroll-f-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/2024/09/ghost-btns-200x113.jpg
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\2024\09\ghost-btns-200x113-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/poppins/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\poppins\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/poppins/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\poppins\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/poppins/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\poppins\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/poppins/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\poppins\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+e: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\roboto\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/roboto/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\roboto\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-content/uploads/themepunch/gfonts/roboto/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-content\uploads\themepunch\gfonts\roboto\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://www.sliderrevolution.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.sliderrevolution.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.sliderrevolution.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.sliderrevolution.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
